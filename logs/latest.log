@@ -1,39 +1,84 @@
-[14:51:37] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:51:37] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:51:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:51:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:51:37] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:51:37] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:51:37] [main/INFO]: Reloading ResourceManager: Default
-[14:51:37] [Worker-Main-14/INFO]: Loaded 7 recipes
-[14:51:37] [Worker-Main-14/INFO]: Loaded 927 advancements
-[14:51:38] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[14:51:38] [Server thread/INFO]: Loading properties
-[14:51:38] [Server thread/INFO]: Default game type: SURVIVAL
-[14:51:38] [Server thread/INFO]: Generating keypair
-[14:51:38] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:51:38] [Server thread/INFO]: Using epoll channel type
-[14:51:38] [Server thread/INFO]: Preparing level "world"
-[14:51:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:51:39] [Server thread/INFO]: Preparing spawn area: 0%
-[14:51:39] [Server thread/INFO]: Preparing spawn area: 0%
-[14:51:39] [Server thread/INFO]: Time elapsed: 974 ms
-[14:51:39] [Server thread/INFO]: Done (1.006s)! For help, type "help"
-[14:54:20] [User Authenticator #1/INFO]: UUID of player kevman967 is c9f443dc-29fd-4106-a361-1e9a541b16a1
-[14:54:20] [Server thread/INFO]: kevman967[/162.222.83.8:6970] logged in with entity id 130 at (36.20477357733262, 86.0, 185.9324344142609)
-[14:54:20] [Server thread/INFO]: kevman967 joined the game
-[14:54:53] [Server thread/INFO]: kevman967 lost connection: Disconnected
-[14:54:53] [Server thread/INFO]: kevman967 left the game
-[14:54:55] [Server thread/INFO]: Stopping the server
-[14:54:55] [Server thread/INFO]: Stopping server
-[14:54:55] [Server thread/INFO]: Saving players
-[14:54:55] [Server thread/INFO]: Saving worlds
-[14:54:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[14:54:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:54:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[14:54:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:54:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[14:54:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:54:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:54:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:54:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:55:45] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:55:45] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:55:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:55:45] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:55:45] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:55:45] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:55:45] [main/INFO]: Reloading ResourceManager: Default
+[14:55:46] [Worker-Main-14/INFO]: Loaded 7 recipes
+[14:55:46] [Worker-Main-14/INFO]: Loaded 927 advancements
+[14:55:47] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[14:55:47] [Server thread/INFO]: Loading properties
+[14:55:47] [Server thread/INFO]: Default game type: SURVIVAL
+[14:55:47] [Server thread/INFO]: Generating keypair
+[14:55:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:55:47] [Server thread/INFO]: Using epoll channel type
+[14:55:47] [Server thread/INFO]: Preparing level "world"
+[14:55:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:55:47] [Server thread/INFO]: Preparing spawn area: 0%
+[14:55:47] [Server thread/INFO]: Preparing spawn area: 0%
+[14:55:48] [Server thread/INFO]: Time elapsed: 994 ms
+[14:55:48] [Server thread/INFO]: Done (1.035s)! For help, type "help"
+[15:11:48] [User Authenticator #1/INFO]: UUID of player cubed_dude is e0377df8-01e5-4da1-aae7-0a4d77604a3a
+[15:11:48] [Server thread/INFO]: cubed_dude[/173.178.228.87:62290] logged in with entity id 130 at (73.72298470246079, 57.0, 193.55182552224)
+[15:11:48] [Server thread/INFO]: cubed_dude joined the game
+[15:12:21] [Server thread/INFO]: <cubed_dude> anyone here?
+[15:12:46] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[15:12:46] [Server thread/INFO]: msg no<--[HERE]
+[15:12:56] [Server thread/INFO]: [Server] no
+[15:13:04] [Server thread/INFO]: <cubed_dude> ummm
+[15:13:13] [Server thread/INFO]: <cubed_dude> who is server? lol
+[15:13:20] [Server thread/INFO]: [Server] usually gets moreactive after school hours
+[15:13:27] [Server thread/INFO]: <cubed_dude> is this justin?
+[15:13:36] [Server thread/INFO]: [Server] I'm Justin
+[15:13:37] [Server thread/INFO]: <cubed_dude> this is jacob
+[15:13:44] [Server thread/INFO]: [Server] yoooooo
+[15:13:49] [Server thread/INFO]: [Server] supp bro
+[15:13:49] [Server thread/INFO]: <cubed_dude> what up
+[15:14:00] [Server thread/INFO]: <cubed_dude> not much, just checking to see if anyones on
+[15:14:12] [Server thread/INFO]: <cubed_dude> how did you get notified that i messaged?
+[15:14:16] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[15:14:16] [Server thread/INFO]: saysay usually its after school hours that is get hype<--[HERE]
+[15:14:28] [Server thread/INFO]: <cubed_dude> im new to minecraft so
+[15:14:33] [Server thread/INFO]: [Server] the server has a log
+[15:14:47] [Server thread/INFO]: <cubed_dude> so your messaging from your phone?
+[15:14:48] [Server thread/INFO]: [Server] i can see the messages in the log
+[15:14:54] [Server thread/INFO]: [Server] nah
+[15:15:06] [Server thread/INFO]: <cubed_dude> oh ok
+[15:15:27] [Server thread/INFO]: [Server] its on my pc
+[15:15:43] [Server thread/INFO]: [Server] check disc for pic
+[15:16:01] [Server thread/INFO]: <cubed_dude> kek
+[15:16:39] [Server thread/INFO]: <cubed_dude> shittttt thats some serious business
+[15:16:47] [Server thread/INFO]: [Server] lol
+[15:16:58] [Server thread/INFO]: <cubed_dude> minecraft be on another level
+[15:17:08] [Server thread/INFO]: <cubed_dude> this ain't no kid game
+[15:17:23] [Server thread/INFO]: [Server] hahaha
+[15:17:31] [Server thread/INFO]: [Server] do u see our base?
+[15:17:39] [Server thread/INFO]: <cubed_dude> yup its awesome
+[15:17:51] [Server thread/INFO]: <cubed_dude> i like the water tower elevator thing
+[15:18:14] [Server thread/INFO]: [Server] yee shuhan made alot of usful stuff
+[15:18:42] [Server thread/INFO]: <cubed_dude> ya i played a bit with him last night
+[15:19:07] [Server thread/INFO]: cubed_dude has made the advancement [Isn't It Iron Pick]
+[15:34:12] [Server thread/INFO]: cubed_dude was shot by Skeleton
+[15:45:41] [Server thread/INFO]: cubed_dude fell from a high place
+[15:56:48] [Server thread/INFO]: cubed_dude drowned
+[16:00:24] [Server thread/INFO]: cubed_dude was blown up by Creeper
+[16:07:29] [Server thread/INFO]: cubed_dude lost connection: Disconnected
+[16:07:29] [Server thread/INFO]: cubed_dude left the game
+[16:25:21] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[16:25:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:25:29] [Server thread/INFO]: <--[HERE]
+[16:31:20] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[16:31:24] [Server thread/INFO]: Stopping the server
+[16:31:24] [Server thread/INFO]: Stopping server
+[16:31:24] [Server thread/INFO]: Saving players
+[16:31:24] [Server thread/INFO]: Saving worlds
+[16:31:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:31:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:31:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:31:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:31:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:31:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:31:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:31:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:31:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
