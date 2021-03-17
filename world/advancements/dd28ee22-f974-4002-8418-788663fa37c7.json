@@ -203,6 +203,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2021-03-17 00:22:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2021-03-17 00:39:38 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2021-03-15 17:20:16 -0400"
@@ -243,8 +255,12 @@
     "criteria": {
       "cooked_porkchop": "2021-03-15 17:22:35 -0400",
       "chicken": "2021-03-15 16:14:56 -0400",
+      "cooked_mutton": "2021-03-16 23:45:32 -0400",
       "cooked_beef": "2021-03-15 21:57:39 -0400",
       "porkchop": "2021-03-15 16:52:45 -0400",
+      "apple": "2021-03-16 23:16:16 -0400",
+      "cooked_cod": "2021-03-16 23:15:01 -0400",
+      "mutton": "2021-03-16 23:24:29 -0400",
       "bread": "2021-03-15 16:58:56 -0400",
       "rotten_flesh": "2021-03-15 18:05:15 -0400",
       "carrot": "2021-03-15 22:38:58 -0400"
@@ -377,6 +393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2021-03-16 23:14:12 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2021-03-15 18:20:53 -0400"
@@ -403,7 +425,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:sheep": "2021-03-15 22:47:05 -0400"
+      "minecraft:sheep": "2021-03-15 22:47:05 -0400",
+      "minecraft:chicken": "2021-03-16 23:54:03 -0400"
     },
     "done": false
   },
@@ -458,6 +481,18 @@
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2021-03-15 18:26:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2021-03-17 00:39:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2021-03-17 00:09:02 -0400"
     },
     "done": true
   },
@@ -633,6 +668,7 @@
     "criteria": {
       "minecraft:skeleton": "2021-03-15 17:22:01 -0400",
       "minecraft:spider": "2021-03-15 17:17:00 -0400",
+      "minecraft:creeper": "2021-03-16 23:19:31 -0400",
       "minecraft:husk": "2021-03-15 18:13:09 -0400",
       "minecraft:zombie": "2021-03-15 17:14:17 -0400",
       "minecraft:drowned": "2021-03-15 16:17:30 -0400"
@@ -1473,6 +1509,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2021-03-15 17:08:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2021-03-17 00:22:00 -0400"
     },
     "done": true
   },
