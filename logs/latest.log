@@ -1,34 +1,199 @@
-[19:25:56] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:25:56] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:25:56] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:25:56] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:25:56] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:25:56] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:25:56] [main/INFO]: Reloading ResourceManager: Default
-[19:25:57] [Worker-Main-13/INFO]: Loaded 7 recipes
-[19:25:57] [Worker-Main-13/INFO]: Loaded 927 advancements
-[19:25:58] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[19:25:58] [Server thread/INFO]: Loading properties
-[19:25:58] [Server thread/INFO]: Default game type: SURVIVAL
-[19:25:58] [Server thread/INFO]: Generating keypair
-[19:25:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:25:58] [Server thread/INFO]: Using epoll channel type
-[19:25:58] [Server thread/INFO]: Preparing level "world"
-[19:25:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:25:58] [Server thread/INFO]: Preparing spawn area: 0%
-[19:25:58] [Server thread/INFO]: Preparing spawn area: 0%
-[19:25:59] [Server thread/INFO]: Time elapsed: 954 ms
-[19:25:59] [Server thread/INFO]: Done (0.986s)! For help, type "help"
-[19:32:46] [Server thread/INFO]: Stopping the server
-[19:32:46] [Server thread/INFO]: Stopping server
-[19:32:46] [Server thread/INFO]: Saving players
-[19:32:46] [Server thread/INFO]: Saving worlds
-[19:32:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:32:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:32:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:32:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:32:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:32:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:32:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:32:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:32:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:03:57] [User Authenticator #7/INFO]: UUID of player GrandmaJoe69 is 69d88543-cedc-4de8-88fb-7721327f00da
+[00:03:57] [Server thread/INFO]: GrandmaJoe69[/67.69.76.164:52075] logged in with entity id 50462 at (-37.0696576705839, 99.02442408821369, 235.43404924818847)
+[00:03:57] [Server thread/INFO]: GrandmaJoe69 joined the game
+[00:11:28] [Server thread/INFO]: <GrandmaJoe69> SLEEP
+[00:11:29] [Server thread/INFO]: <GrandmaJoe69> SLEEP
+[00:11:31] [Server thread/INFO]: <GrandmaJoe69> SLEEP
+[00:11:32] [Server thread/INFO]: <GrandmaJoe69> SLEEP
+[00:11:33] [Server thread/INFO]: <GrandmaJoe69> SLEEP
+[00:11:35] [Server thread/INFO]: <GrandmaJoe69> SLEEP
+[00:11:36] [Server thread/INFO]: <GrandmaJoe69> SLEEP
+[00:15:21] [Server thread/WARN]: Fetching packet for removed entity bcv['Terracotta'/54190, l='ServerLevel[world]', x=18.88, y=65.00, z=20.85]
+[00:15:21] [Server thread/WARN]: Fetching packet for removed entity bcv['Terracotta'/54189, l='ServerLevel[world]', x=17.13, y=65.00, z=22.51]
+[00:15:21] [Server thread/WARN]: Fetching packet for removed entity bcv['Terracotta'/54191, l='ServerLevel[world]', x=18.82, y=65.00, z=22.23]
+[00:18:51] [Server thread/WARN]: Fetching packet for removed entity bcv['Carrot'/55138, l='ServerLevel[world]', x=118.42, y=62.94, z=162.32]
+[01:03:01] [Server thread/INFO]: Spontaneous1070 burned to death
+[01:03:06] [Server thread/INFO]: GrandmaJoe69 was shot by Just_Shoo
+[01:03:31] [Server thread/INFO]: Spontaneous1070 has made the advancement [Cover Me With Diamonds]
+[01:13:03] [Server thread/INFO]: GrandmaJoe69 has made the advancement [Not Today, Thank You]
+[01:18:15] [Server thread/WARN]: Spontaneous1070 moved too quickly! 0.09815575355209205,1.0,-10.017852852739793
+[01:53:25] [Server thread/INFO]: Villager bfj['Weaponsmith'/80, l='ServerLevel[world]', x=-32.86, y=94.84, z=219.76] died, message: 'Weaponsmith suffocated in a wall'
+[01:53:28] [Server thread/INFO]: Villager bfj['Villager'/83, l='ServerLevel[world]', x=-32.68, y=94.84, z=219.96] died, message: 'Villager suffocated in a wall'
+[01:59:37] [Server thread/INFO]: Villager bfj['Farmer'/84, l='ServerLevel[world]', x=199.29, y=66.90, z=38.34] died, message: 'Farmer was slain by Zombie'
+[02:19:31] [Server thread/INFO]: Spontaneous1070 lost connection: Disconnected
+[02:19:31] [Server thread/INFO]: Spontaneous1070 left the game
+[02:56:16] [Server thread/WARN]: Fetching packet for removed entity aqg['Experience Orb'/87926, l='ServerLevel[world]', x=231.74, y=64.00, z=9.88]
+[03:10:33] [User Authenticator #8/INFO]: UUID of player Zoltan___ is f5ccea94-e740-472d-a4d9-365a96014d2b
+[03:10:34] [Server thread/INFO]: Zoltan___[/142.113.60.180:58732] logged in with entity id 90923 at (263.40739411687, 64.0, 37.7812939565399)
+[03:10:34] [Server thread/INFO]: Zoltan___ joined the game
+[03:11:21] [Server thread/INFO]: Zoltan___ has made the advancement [A Seedy Place]
+[03:13:12] [Server thread/INFO]: Zoltan___ has made the advancement [Monster Hunter]
+[03:19:06] [Server thread/WARN]: Zoltan___ moved wrongly!
+[03:20:23] [Server thread/INFO]: GrandmaJoe69 was shot by Just_Shoo
+[03:39:23] [Server thread/INFO]: Zoltan___ has made the advancement [Sweet Dreams]
+[03:41:06] [Server thread/INFO]: <Zoltan___> https://minecraft.gamepedia.com/Mechanics/Redstone/Pulse_circuit/pulse_extender
+[03:43:06] [Server thread/INFO]: Zoltan___ has made the advancement [Not Today, Thank You]
+[03:44:15] [Server thread/INFO]: Zoltan___ has made the advancement [Take Aim]
+[03:49:34] [Server thread/INFO]: Zoltan___ has made the advancement [Enchanter]
+[03:50:50] [Server thread/INFO]: GrandmaJoe69 was shot by Zoltan___
+[03:50:51] [Server thread/WARN]: GrandmaJoe69 moved too quickly! 18.55660735554691,0.0,-116.78376740906162
+[03:52:41] [Server thread/INFO]: Just_Shoo was shot by Zoltan___
+[03:53:56] [Server thread/INFO]: Just_Shoo was blown up by Creeper
+[03:53:58] [Server thread/WARN]: Just_Shoo moved too quickly! -13.033581068102613,0.5625,-101.4394417506158
+[03:59:09] [Server thread/INFO]: Just_Shoo has made the advancement [Cover Me With Diamonds]
+[04:02:32] [Server thread/INFO]: GrandmaJoe69 has made the advancement [Take Aim]
+[04:08:44] [Server thread/INFO]: Just_Shoo was shot by Zoltan___
+[04:08:45] [Server thread/WARN]: Just_Shoo moved too quickly! 9.742038318589934,0.0,-143.25884985367753
+[04:12:22] [Server thread/INFO]: GrandmaJoe69 lost connection: Disconnected
+[04:12:22] [Server thread/INFO]: GrandmaJoe69 left the game
+[04:13:03] [Server thread/INFO]: Zoltan___ was slain by Just_Shoo
+[04:13:06] [User Authenticator #9/INFO]: UUID of player GrandmaJoe69 is 69d88543-cedc-4de8-88fb-7721327f00da
+[04:13:06] [Server thread/INFO]: GrandmaJoe69[/67.69.76.164:53123] logged in with entity id 104520 at (2.699999988079067, 88.0, 199.1451187167796)
+[04:13:06] [Server thread/INFO]: GrandmaJoe69 joined the game
+[04:13:08] [Server thread/WARN]: Zoltan___ moved too quickly! 21.001553250105854,1.5625,-38.28299868166991
+[04:16:14] [Server thread/INFO]: Just_Shoo was slain by Zoltan___
+[04:18:14] [Server thread/INFO]: Zoltan___ was slain by Just_Shoo
+[04:18:16] [Server thread/WARN]: Zoltan___ moved too quickly! 14.047906713338339,1.5625,-32.60637897786896
+[04:20:33] [Server thread/INFO]: Zoltan___ was shot by Just_Shoo
+[04:20:34] [Server thread/WARN]: Zoltan___ moved too quickly! 3.596733050934007,0.5625,-74.65440150804557
+[04:21:04] [Server thread/WARN]: Zoltan___ moved too quickly! 6.044390519709058,1.0,7.978573614057325
+[04:21:15] [Server thread/INFO]: Zoltan___ was slain by Just_Shoo
+[04:21:17] [Server thread/WARN]: Zoltan___ moved too quickly! -20.307234233205218,0.33097620241298387,-59.48331667730122
+[04:21:45] [Server thread/INFO]: Just_Shoo was slain by GrandmaJoe69
+[04:26:00] [Server thread/INFO]: Just_Shoo fell off a ladder
+[04:26:46] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:26:46] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:26:46] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:26:46] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:26:46] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:26:46] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:26:46] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:26:46] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:26:46] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:26:46] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:26:47] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:26:48] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:26:48] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:24] [Server thread/INFO]: Just_Shoo was slain by Zoltan___
+[04:27:26] [Server thread/WARN]: Just_Shoo moved too quickly! -22.967620128537924,0.0,-39.596134450368766
+[04:27:45] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:45] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:45] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:45] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:45] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:45] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:45] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:46] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:46] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:46] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:46] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:46] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:46] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:46] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:46] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:46] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:46] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:46] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:46] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:46] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:46] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:46] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:46] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:46] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:46] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:46] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:46] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:47] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:47] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:47] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:47] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:47] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:47] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:47] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:47] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:47] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:47] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:47] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:47] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:47] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:52] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:52] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:52] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:52] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:53] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:53] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:53] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:53] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:53] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:53] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:53] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:53] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:53] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:53] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:53] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:27:54] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:30:29] [Server thread/INFO]: Zoltan___ was shot by Just_Shoo
+[04:30:30] [Server thread/WARN]: Zoltan___ moved too quickly! -13.657954442798363,0.5625,-1.8347232587374833
+[04:30:55] [Server thread/WARN]: Fetching packet for removed entity bgc['Arrow'/107049, l='ServerLevel[world]', x=18.96, y=66.49, z=21.22]
+[04:32:06] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:32:07] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:32:07] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:32:10] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:32:10] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:32:10] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:32:18] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:32:18] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:32:18] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:32:18] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:33:05] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:33:05] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:33:07] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:33:07] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:33:17] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:33:17] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:33:18] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:33:18] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:33:18] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:33:18] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:33:18] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:33:20] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:33:20] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:33:31] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:33:31] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:33:31] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:33:31] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:33:31] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:33:32] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:33:32] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:33:32] [Server thread/WARN]: Zoltan___ moved wrongly!
+[04:34:31] [Server thread/INFO]: Zoltan___ was slain by Just_Shoo
+[04:34:32] [Server thread/WARN]: Zoltan___ moved too quickly! -25.88708421386032,13.5625,24.00320403389182
+[04:38:26] [Server thread/INFO]: Zoltan___ was slain by GrandmaJoe69
+[04:38:34] [Server thread/INFO]: Zoltan___ was slain by GrandmaJoe69
+[04:38:44] [Server thread/INFO]: Zoltan___ was shot by Just_Shoo
+[04:38:54] [Server thread/INFO]: Zoltan___ was slain by Just_Shoo
+[04:39:28] [Server thread/INFO]: Zoltan___ lost connection: Disconnected
+[04:39:28] [Server thread/INFO]: Zoltan___ left the game
+[04:39:33] [User Authenticator #10/INFO]: UUID of player Zoltan___ is f5ccea94-e740-472d-a4d9-365a96014d2b
+[04:39:33] [Server thread/INFO]: Zoltan___[/142.113.60.180:59339] logged in with entity id 108249 at (3.300000011920929, 89.20000004768372, 192.31027991848333)
+[04:39:33] [Server thread/INFO]: Zoltan___ joined the game
+[04:39:36] [Server thread/INFO]: Zoltan___ lost connection: Disconnected
+[04:39:36] [Server thread/INFO]: Zoltan___ left the game
+[04:40:39] [Server thread/INFO]: GrandmaJoe69 lost connection: Disconnected
+[04:40:39] [Server thread/INFO]: GrandmaJoe69 left the game
+[04:43:56] [Server thread/INFO]: Just_Shoo lost connection: Disconnected
+[04:43:56] [Server thread/INFO]: Just_Shoo left the game
+[10:03:30] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[10:03:35] [Server thread/INFO]: Stopping the server
+[10:03:35] [Server thread/INFO]: Stopping server
+[10:03:35] [Server thread/INFO]: Saving players
+[10:03:35] [Server thread/INFO]: Saving worlds
+[10:03:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:03:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:03:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10:03:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:03:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10:03:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:03:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:03:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:03:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
