@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2021-03-19 17:33:54 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-03-15 17:20:13 -0400"
@@ -269,6 +275,7 @@
       "mutton": "2021-03-16 23:24:29 -0400",
       "bread": "2021-03-15 16:58:56 -0400",
       "rotten_flesh": "2021-03-15 18:05:15 -0400",
+      "cooked_chicken": "2021-03-19 18:06:47 -0400",
       "carrot": "2021-03-15 22:38:58 -0400"
     },
     "done": false
@@ -348,6 +355,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2021-03-15 16:18:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2021-03-19 17:56:44 -0400"
     },
     "done": true
   },
@@ -677,12 +690,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2021-03-19 17:33:54 -0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2021-03-15 17:22:01 -0400",
       "minecraft:spider": "2021-03-15 17:17:00 -0400",
       "minecraft:creeper": "2021-03-16 23:19:31 -0400",
       "minecraft:husk": "2021-03-15 18:13:09 -0400",
+      "minecraft:cave_spider": "2021-03-19 17:36:38 -0400",
       "minecraft:zombie": "2021-03-15 17:14:17 -0400",
       "minecraft:drowned": "2021-03-15 16:17:30 -0400"
     },
@@ -1333,6 +1353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2021-03-19 17:33:54 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2021-03-15 20:53:28 -0400"
@@ -1432,6 +1458,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-03-15 17:17:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2021-03-19 17:56:13 -0400"
     },
     "done": true
   },
