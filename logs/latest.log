@@ -1,77 +1,58 @@
-[17:17:11] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:17:12] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:17:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:17:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:17:12] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[17:17:12] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[17:17:12] [main/INFO]: Reloading ResourceManager: Default
-[17:17:12] [Worker-Main-14/INFO]: Loaded 7 recipes
-[17:17:12] [Worker-Main-14/INFO]: Loaded 927 advancements
-[17:17:13] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[17:17:13] [Server thread/INFO]: Loading properties
-[17:17:13] [Server thread/INFO]: Default game type: SURVIVAL
-[17:17:13] [Server thread/INFO]: Generating keypair
-[17:17:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:17:13] [Server thread/INFO]: Using epoll channel type
-[17:17:13] [Server thread/INFO]: Preparing level "world"
-[17:17:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:17:14] [Server thread/INFO]: Preparing spawn area: 0%
-[17:17:14] [Server thread/INFO]: Preparing spawn area: 0%
-[17:17:14] [Server thread/INFO]: Time elapsed: 1015 ms
-[17:17:14] [Server thread/INFO]: Done (1.058s)! For help, type "help"
-[17:18:43] [User Authenticator #1/INFO]: UUID of player Katarina2000 is dd28ee22-f974-4002-8418-788663fa37c7
-[17:18:43] [Server thread/INFO]: Katarina2000[/174.94.116.132:58055] logged in with entity id 115 at (94.23750001192091, 63.0, 197.3000000119209)
-[17:18:43] [Server thread/INFO]: Katarina2000 joined the game
-[17:20:07] [User Authenticator #2/INFO]: UUID of player Spontaneous1070 is cefedd48-0583-4717-a1cb-a5fe8a25b621
-[17:20:07] [Server thread/INFO]: Spontaneous1070[/76.67.169.153:57852] logged in with entity id 476 at (-42.69999998807907, 95.0, 211.30000001192093)
-[17:20:07] [Server thread/INFO]: Spontaneous1070 joined the game
-[17:24:13] [Server thread/INFO]: There are 2 of a max of 20 players online: Katarina2000, Spontaneous1070
-[17:31:53] [Server thread/INFO]: Spontaneous1070 fell off a ladder
-[17:41:35] [Server thread/INFO]: Katarina2000 was shot by Skeleton
-[18:03:49] [Server thread/INFO]: Spontaneous1070 lost connection: Disconnected
-[18:03:49] [Server thread/INFO]: Spontaneous1070 left the game
-[18:06:51] [Server thread/INFO]: Katarina2000 lost connection: Disconnected
-[18:06:51] [Server thread/INFO]: Katarina2000 left the game
-[18:11:53] [Server thread/INFO]: There are 0 of a max of 20 players online: 
-[18:34:08] [User Authenticator #3/INFO]: UUID of player cubed_dude is e0377df8-01e5-4da1-aae7-0a4d77604a3a
-[18:34:08] [Server thread/INFO]: cubed_dude[/173.178.228.87:60149] logged in with entity id 7785 at (6.5, 88.0, 192.5)
-[18:34:08] [Server thread/INFO]: cubed_dude joined the game
-[18:35:06] [Server thread/INFO]: <cubed_dude> hello?
-[18:35:55] [Server thread/INFO]: [Server] yo
-[18:36:06] [Server thread/INFO]: <cubed_dude> lol ayyyyy
-[18:36:10] [Server thread/INFO]: [Server] lmaooo
-[18:37:57] [Server thread/INFO]: cubed_dude has made the advancement [Getting an Upgrade]
-[18:43:16] [Server thread/INFO]: There are 1 of a max of 20 players online: cubed_dude
-[19:04:35] [Server thread/INFO]: [Server] yo sarouk
-[19:04:43] [Server thread/INFO]: <cubed_dude> yo
-[19:04:47] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[19:04:47] [Server thread/INFO]: <--[HERE]
-[19:05:08] [Server thread/INFO]: [Server] imma need to reboot soon, I'll let you know 30 sec before I do
-[19:05:17] [Server thread/INFO]: <cubed_dude> k
-[19:08:41] [Server thread/INFO]: <cubed_dude> gimme 5 min
-[19:08:58] [Server thread/INFO]: [Server] ok, lemme know when ur ready
-[19:09:37] [Server thread/INFO]: <cubed_dude> k
-[19:09:52] [Server thread/INFO]: [Server] ill stop it in 30s
-[19:10:06] [Server thread/INFO]: <cubed_dude> wait
-[19:10:15] [Server thread/INFO]: <cubed_dude> do i have to put my stuff in the chest
-[19:10:20] [Server thread/INFO]: <cubed_dude> will i loose it?
-[19:10:38] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[19:10:38] [Server thread/INFO]: no<--[HERE]
-[19:10:41] [Server thread/INFO]: [Server] no
-[19:10:45] [Server thread/INFO]: [Server] it should be fine
-[19:10:52] [Server thread/INFO]: <cubed_dude> ok then you can do it now
-[19:10:57] [Server thread/INFO]: Stopping the server
-[19:10:57] [Server thread/INFO]: Stopping server
-[19:10:57] [Server thread/INFO]: Saving players
-[19:10:57] [Server thread/INFO]: cubed_dude lost connection: Disconnected
-[19:10:57] [Server thread/INFO]: cubed_dude left the game
-[19:10:57] [Server thread/INFO]: Saving worlds
-[19:10:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:10:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:10:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[19:10:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:10:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[19:10:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:10:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:10:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:10:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:12:17] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:12:17] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:12:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:12:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:12:17] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:12:17] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:12:17] [main/INFO]: Reloading ResourceManager: Default
+[19:12:17] [Worker-Main-14/INFO]: Loaded 7 recipes
+[19:12:17] [Worker-Main-14/INFO]: Loaded 927 advancements
+[19:12:18] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[19:12:18] [Server thread/INFO]: Loading properties
+[19:12:18] [Server thread/INFO]: Default game type: SURVIVAL
+[19:12:18] [Server thread/INFO]: Generating keypair
+[19:12:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:12:18] [Server thread/INFO]: Using epoll channel type
+[19:12:18] [Server thread/INFO]: Preparing level "world"
+[19:12:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:12:19] [Server thread/INFO]: Preparing spawn area: 0%
+[19:12:19] [Server thread/INFO]: Preparing spawn area: 0%
+[19:12:19] [Server thread/INFO]: Time elapsed: 1019 ms
+[19:12:19] [Server thread/INFO]: Done (1.055s)! For help, type "help"
+[19:14:27] [User Authenticator #1/INFO]: UUID of player cubed_dude is e0377df8-01e5-4da1-aae7-0a4d77604a3a
+[19:14:27] [Server thread/INFO]: cubed_dude[/173.178.228.87:60321] logged in with entity id 145 at (13.829643811214261, 63.0, 125.45309751850853)
+[19:14:27] [Server thread/INFO]: cubed_dude joined the game
+[19:14:32] [Server thread/INFO]: <cubed_dude> ayyyy
+[19:14:37] [Server thread/INFO]: <cubed_dude> we good
+[19:26:49] [Server thread/INFO]: cubed_dude was slain by Zombie
+[19:29:16] [Server thread/INFO]: cubed_dude has made the advancement [Cover Me With Diamonds]
+[19:40:56] [Server thread/INFO]: [Server] YOOOOOOOO, I just saw the screenshot!
+[19:41:02] [Server thread/INFO]: [Server] super nice
+[19:41:28] [Server thread/INFO]: <cubed_dude> wait how? lol
+[19:56:59] [Server thread/INFO]: cubed_dude lost connection: Disconnected
+[19:56:59] [Server thread/INFO]: cubed_dude left the game
+[19:57:07] [User Authenticator #2/INFO]: UUID of player cubed_dude is e0377df8-01e5-4da1-aae7-0a4d77604a3a
+[19:57:07] [Server thread/INFO]: cubed_dude[/173.178.228.87:60701] logged in with entity id 4635 at (9.843890726991981, 88.0, 191.36287147823376)
+[19:57:07] [Server thread/INFO]: cubed_dude joined the game
+[19:57:29] [Server thread/INFO]: cubed_dude lost connection: Disconnected
+[19:57:29] [Server thread/INFO]: cubed_dude left the game
+[20:40:43] [User Authenticator #3/INFO]: UUID of player Spontaneous1070 is cefedd48-0583-4717-a1cb-a5fe8a25b621
+[20:40:43] [Server thread/INFO]: Spontaneous1070[/76.67.169.153:58633] logged in with entity id 4705 at (132.6307757078877, 72.0, 169.72458827654182)
+[20:40:43] [Server thread/INFO]: Spontaneous1070 joined the game
+[20:56:54] [Server thread/INFO]: There are 1 of a max of 20 players online: Spontaneous1070
+[20:58:37] [Server thread/INFO]: Spontaneous1070 lost connection: Disconnected
+[20:58:37] [Server thread/INFO]: Spontaneous1070 left the game
+[21:12:48] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[21:19:50] [Server thread/INFO]: Stopping the server
+[21:19:50] [Server thread/INFO]: Stopping server
+[21:19:50] [Server thread/INFO]: Saving players
+[21:19:50] [Server thread/INFO]: Saving worlds
+[21:19:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:19:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:19:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:19:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:19:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:19:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:19:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:19:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:19:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
