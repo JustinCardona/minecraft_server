@@ -1,34 +1,52 @@
-[20:11:23] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:11:23] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:11:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:11:23] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:11:23] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:11:23] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:11:23] [main/INFO]: Reloading ResourceManager: Default
-[20:11:24] [Worker-Main-14/INFO]: Loaded 7 recipes
-[20:11:24] [Worker-Main-14/INFO]: Loaded 927 advancements
-[20:11:24] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[20:11:24] [Server thread/INFO]: Loading properties
-[20:11:24] [Server thread/INFO]: Default game type: SURVIVAL
-[20:11:24] [Server thread/INFO]: Generating keypair
-[20:11:24] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:11:24] [Server thread/INFO]: Using epoll channel type
-[20:11:24] [Server thread/INFO]: Preparing level "world"
-[20:11:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:11:25] [Server thread/INFO]: Preparing spawn area: 0%
-[20:11:25] [Server thread/INFO]: Preparing spawn area: 0%
-[20:11:26] [Server thread/INFO]: Time elapsed: 1011 ms
-[20:11:26] [Server thread/INFO]: Done (1.061s)! For help, type "help"
-[20:11:32] [Server thread/INFO]: Stopping the server
-[20:11:32] [Server thread/INFO]: Stopping server
-[20:11:32] [Server thread/INFO]: Saving players
-[20:11:32] [Server thread/INFO]: Saving worlds
-[20:11:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:11:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:11:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:11:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:11:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:11:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:11:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:11:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:11:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:26:07] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:26:08] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:26:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:26:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:26:08] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:26:08] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:26:08] [main/INFO]: Reloading ResourceManager: Default
+[20:26:08] [Worker-Main-12/INFO]: Loaded 7 recipes
+[20:26:08] [Worker-Main-12/INFO]: Loaded 927 advancements
+[20:26:08] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[20:26:08] [Server thread/INFO]: Loading properties
+[20:26:08] [Server thread/INFO]: Default game type: SURVIVAL
+[20:26:08] [Server thread/INFO]: Generating keypair
+[20:26:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:26:09] [Server thread/INFO]: Using default channel type
+[20:26:09] [Server thread/INFO]: Preparing level "world"
+[20:26:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:26:09] [Server thread/INFO]: Preparing spawn area: 0%
+[20:26:09] [Server thread/INFO]: Preparing spawn area: 0%
+[20:26:10] [Server thread/INFO]: Time elapsed: 727 ms
+[20:26:10] [Server thread/INFO]: Done (0.773s)! For help, type "help"
+[20:27:07] [User Authenticator #1/INFO]: UUID of player CubicCatto is 2b1b2d65-730a-47ed-93ed-0252dd677b81
+[20:27:07] [Server thread/INFO]: CubicCatto[/127.0.0.1:65167] logged in with entity id 161 at (5.573215751954218, 88.0, 187.33126318721833)
+[20:27:07] [Server thread/INFO]: CubicCatto joined the game
+[20:35:50] [User Authenticator #2/INFO]: UUID of player Spontaneous1070 is cefedd48-0583-4717-a1cb-a5fe8a25b621
+[20:35:50] [Server thread/INFO]: Spontaneous1070[/76.67.169.153:60802] logged in with entity id 1319 at (242.9884965394969, 64.0, -51.71968982475457)
+[20:35:50] [Server thread/INFO]: Spontaneous1070 joined the game
+[20:40:16] [Server thread/INFO]: CubicCatto lost connection: Disconnected
+[20:40:16] [Server thread/INFO]: CubicCatto left the game
+[20:52:30] [User Authenticator #3/INFO]: UUID of player Katarina2000 is dd28ee22-f974-4002-8418-788663fa37c7
+[20:52:30] [Server thread/INFO]: Katarina2000[/76.71.185.250:62431] logged in with entity id 4119 at (95.26153933328284, 63.0, 197.30000001192093)
+[20:52:30] [Server thread/INFO]: Katarina2000 joined the game
+[20:56:04] [Server thread/INFO]: Katarina2000 lost connection: Disconnected
+[20:56:04] [Server thread/INFO]: Katarina2000 left the game
+[22:16:35] [Server thread/INFO]: There are 1 of a max of 20 players online: Spontaneous1070
+[22:23:43] [Server thread/INFO]: There are 1 of a max of 20 players online: Spontaneous1070
+[23:08:51] [Server thread/INFO]: Spontaneous1070 lost connection: Disconnected
+[23:08:51] [Server thread/INFO]: Spontaneous1070 left the game
+[23:59:27] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[23:59:31] [Server thread/INFO]: Stopping the server
+[23:59:31] [Server thread/INFO]: Stopping server
+[23:59:31] [Server thread/INFO]: Saving players
+[23:59:31] [Server thread/INFO]: Saving worlds
+[23:59:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:59:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:59:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:59:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:59:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:59:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:59:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:59:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:59:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
